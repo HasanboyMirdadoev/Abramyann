@@ -1,0 +1,12 @@
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\bin\Debug\Abramyann.exe.config
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\obj\Debug\Abramyann.csprojResolveAssemblyReference.cache
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\bin\Debug\Abramyann.exe
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\bin\Debug\Abramyann.pdb
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\obj\Debug\Abramyann.exe
+c:\users\hasanboy\documents\visual studio 2015\Projects\Abramyann\Abramyann\obj\Debug\Abramyann.pdb
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\bin\Debug\Abramyann.exe.config
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\obj\Debug\Abramyann.exe
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\obj\Debug\Abramyann.pdb
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\Abramyann\bin\Debug\Abramyann.exe.config
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\Abramyann\obj\Debug\Abramyann.exe
+C:\Users\Hasanboy\Desktop\Abramyann\Abramyann\Abramyann\obj\Debug\Abramyann.pdb
